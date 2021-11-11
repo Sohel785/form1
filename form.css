@@ -1,0 +1,15 @@
+
+.body{
+	width: 1000px;
+	background:green;
+}
+.form{
+	font-style: arial bold;
+	width: 500px;
+	background: #EEEBDD;
+	padding: 30px;
+}
+h2{
+	width: 500px;
+text-align: center;
+}
