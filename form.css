@@ -1,15 +1,27 @@
 
+
+*{
+	box-sizing: border-box;
+	
+}
+body{
+	font-family: arial, sans-serif;
+	background: #2ecc71;
+}
 .body{
-	width: 1000px;
-	background:green;
+	margin:50px;
+	max-width: 600px;
+	padding: 60px;
 }
 .form{
-	font-style: arial bold;
-	width: 500px;
-	background: #EEEBDD;
-	padding: 30px;
+	background: #d1d8e0;
+	padding: 10px;
+
 }
 h2{
-	width: 500px;
-text-align: center;
+	width:600;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+
 }
